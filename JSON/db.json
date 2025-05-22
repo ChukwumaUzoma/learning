@@ -1,0 +1,25 @@
+{
+    "employees":[
+        {
+            "id": 1,
+            "Fullname": "Chukwuma Anthony",
+            "phone": "09017772955",
+            "email": "chukwuma@gmail.com",
+            "salary": "$25000"
+        },
+        {
+            "id": 2,
+            "Fullname": "Chiamaka Howard",
+            "phone": "0901753869",
+            "email": "chiamaka@gmail.com",
+            "salary": "$15000"
+        },
+        {
+            "id": 3,
+            "Fullname": "Kelechi Uzoma",
+            "phone": "08017372955",
+            "email": "uzoma@gmail.com",
+            "salary": "$20000"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+.navbar-brand{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+
+.navbar-nav .nav-item{
+    margin-left: 3rem;
+
+}
+
+.carousel-item{
+    background-position: bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1290px;
+    }}
+
+.carousel-caption{
+    bottom: 6.25rem;
+}    
+
+/*----product session */
+
+#portrait{
+    margin-top: 3rem;
+}
+
+/* want to watch section*/
+
+@media (min-width: 1200px) {
+   #wanttowatch .container, #wanttowatch.container-lg,
+   #wanttowatch .container-md, #wanttowatch.container-sm, #wanttowatch.container-xl {
+        max-width: 990px;
+    }}
+
+   .cardstyle{
+    margin-top: 4rem;
+    border: none;
+   }
+
+.about{
+    background-image: url(./IMAGES/aboutus.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    
+}
+
+.about-caption{
+    text-align: center;
+    margin-top: 15rem;
+}
+
+.singlecol{
+    position: relative;
+}
+
+.caption{
+    position: absolute;
+    bottom: 200px;
+    margin-left: 2rem;
+}
+
+.caption p{
+    font-size: 2rem;
+
+}
+
+footer{
+    background-color: rgb(32, 1, 61);
+}
+
+.columnContent ul{
+    list-style: none;
+    padding: 0;
+
+}
+
+.columnContent ul li{
+    padding-bottom: 2rem;
+}
